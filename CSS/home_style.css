@@ -1,0 +1,199 @@
+*{
+    font-family: 'Oswald', sans-serif;
+}
+
+.back{
+    background-color: whitesmoke;
+    height: 85em;
+    width: 100%;
+}
+
+.head{
+    background-color: whitesmoke;
+    box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.596);
+    width: 100%;
+    height: 5em;
+    position: fixed;
+    z-index: 1;
+}
+
+.logo{
+    background-image: url(../IMG/logo.png);
+    height: 48px;
+    width: 48px;
+    float: left;
+    margin-top: 1em;
+    margin-left: 4em;
+}
+
+#navbar{
+    width: 70%;
+    height: 5em;
+    float: right;
+}
+
+#navbar a{
+    color: black;
+    font-size: 1.3em;
+    float: right;
+    margin-top: 0.7em;
+    margin-right: 2em;
+}
+
+.space{
+    background-color: rgb(52, 204, 204);
+    height: 20em;
+    width: 100%;
+}
+
+.main{
+    width: 90%;
+    height: 60em;
+    margin: auto;
+    padding: auto;
+    padding: 4em;
+    margin-bottom: 4em;
+    margin-top: -14em;
+}
+
+.btme{
+    width: 70%;
+    height: 25em;
+    margin: auto;
+    padding: auto;
+    margin-bottom: 2em;
+}
+
+.user{
+    background-image: url(../IMG/man.png);
+    height: 208px;
+    width: 208px;
+    padding: auto;
+    margin: auto;
+    margin-bottom: 1em;
+}
+
+.desc{
+    background-color: whitesmoke;
+    box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.596);
+    border-radius: 2px;
+    text-align: center;
+    height: 10em;
+}
+
+.desc p{
+    width: 90%;
+    margin: auto;
+    padding: auto;
+    text-align: left;
+}
+
+#hobbies{
+    margin-top: 4em;
+    height: 20em;
+}
+
+#card1, #card2, #card3{
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.596);
+    border-radius: 10px;
+    height: 22em;
+    text-align: justify;
+}
+
+#card1{
+    float: left;
+}
+
+#card2{
+    float: left;
+    margin-left: 7.5em;
+}
+
+#card3{
+    float: right;
+}
+
+#img{
+    height: 80px;
+    width: 140px;
+    display: block;
+    margin: auto;
+    padding: auto;
+    margin-top: 2em ;
+}
+
+.footer{
+    background-color: rgb(15, 141, 141);
+    height: 32em;
+    width: 100%;
+    margin-top: -12em;
+    padding-top: 4em;
+    box-shadow: 2px 0px 0px 2px rgba(0, 0, 0, 0.596);
+}
+
+.contact{
+    text-align: center;
+    height: 6em;
+    margin-top: 6em;
+    margin-bottom: 2em;
+}
+
+.contact h1{
+    color: black;
+    font-size: 25px;
+    text-align: center;
+}
+
+.contact #texto{
+    font-family: 'Oswald', sans-serif;
+    border-radius: 5px;
+    box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.596);
+    width: 40%;
+    padding: 5px;
+    margin-right: 1em;
+    border: 0;
+}
+
+#navbarbt{
+    width: 20%;
+    float: left;
+}
+
+#navbarbt a{
+    font-family: 'Oswald', sans-serif;
+    color: black;
+    font-size: 22px;
+    margin-top: 0.5em;
+    margin-left: 6em;
+}
+
+.rdsl{
+    float: right;
+    margin-top: 3.5em;
+    height: 4em;
+    width: 30%;
+}
+
+.fc{
+    background-image: url(../IMG/facebook.png);
+    height: 48px;
+    width: 48px;
+    float: left;
+    margin-right: 1em;
+}
+
+.ins{
+    background-image: url(../IMG/instagram.png);
+    height: 48px;
+    width: 48px;
+    float: left;
+    margin-right: 1em;
+
+}
+
+.tt{
+    background-image: url(../IMG/twitter.png);
+    height: 48px;
+    width: 48px;
+    float: left;
+}
